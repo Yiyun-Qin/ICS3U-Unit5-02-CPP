@@ -10,7 +10,7 @@
 
 void Triangle(float base, float height) {
     // This function calculates the area of the triangle
-    
+
     // process & output
     float area;
     area = 1.0 / 2 * base * height;
